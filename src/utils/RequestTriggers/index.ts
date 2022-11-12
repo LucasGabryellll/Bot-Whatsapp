@@ -25,7 +25,7 @@ export async function getNewTrigger(timeStamp: string) {
       ],
       "sortorder": "DESC"
     },
-    "auth": "",
+    "auth": "ee17a4103c9cc84378d01723d03201dd",
     "id": 1
   });
 
