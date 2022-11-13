@@ -23,6 +23,9 @@ export async function getNewTrigger(timeStamp: string) {
         "host",
         "name"
       ],
+      "filter": {
+        "value": 1
+      },
       "sortorder": "DESC"
     },
     "auth": "ee17a4103c9cc84378d01723d03201dd",
