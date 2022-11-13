@@ -8,8 +8,8 @@
 ## 🎯 Dependencias do Projeto:
  1. Execute: `git clone https://github.com/LucasGabryellll/Bot-Whatsapp.git` Ou baixe o Zip do projeto.
  2. Com o projeto baixado abra o terminal e execute: `npm install` ou `yarn add`.
- 2.1. Caso a instalação automatica das bibliotecas não funcione Instale as depencidas e bibliotecas do arquivo `Package.json` manualmente.
- 3. Com tudo instalado execute o seguinte comando: `yarn dev` ou `npm run dev`.
+ 3. Caso a instalação automatica das bibliotecas não funcione Instale as depencidas e bibliotecas do arquivo `Package.json` manualmente.
+ 4. Com tudo instalado execute o seguinte comando: `yarn dev` ou `npm run dev`.
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/4192/4192761.png" width="25px">  Como utilizar a aplicação: 
   1. Após executar o comando `yarn dev` ou `npm run dev`. Será exibido um QR code. Escanei ele com o Whatssapp, para a aplicação tem acesso ao whatsapp. As mensagem serão enviadas para ele.
