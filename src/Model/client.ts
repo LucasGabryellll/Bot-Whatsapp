@@ -1,4 +1,4 @@
-import Sender from '../sender';
+import Sender from './sender';
 
 const sender = new Sender();
 
