@@ -11,7 +11,7 @@
  2.1. Caso a instalação automatica das bibliotecas não funcione Instale as depencidas e bibliotecas do arquivo `Package.json` manualmente.
  3. Com tudo instalado execute o seguinte comando: `yarn dev` ou `npm run dev`.
 
-## <img src="https://cdn-icons-png.flaticon.com/512/4192/4192761.png" width="15px">  Como utilizar a aplicação: 
+## <img src="https://cdn-icons-png.flaticon.com/512/4192/4192761.png" width="25px">  Como utilizar a aplicação: 
   1. Após executar o comando `yarn dev` ou `npm run dev`. Será exibido um QR code. Escanei ele com o Whatssapp, para a aplicação tem acesso ao whatsapp. As mensagem serão enviadas para ele.
   2. Sempre que tiver um novo incidente ativo na rede, a aplicação lhe notificará em um grupo de sua preferencia.
 
@@ -21,7 +21,7 @@
 ## 🚀 Ferramentas e Tecnologías:
  - <img src="https://img.icons8.com/color/344/typescript.png" width="25px"> Typescript.
  - <img src="https://nodejs.org/static/images/logo.svg" width="25px"> Node JS e Express.
- - <img src="https://www.made4it.com.br/wp-content/uploads/2020/10/zabbix_logo_500x131.png" width="25px">Zabbix.
+ - <img src="https://www.made4it.com.br/wp-content/uploads/2020/10/zabbix_logo_500x131.png" width="40px"> Zabbix.
 
 ## 🎓 Autor:
  - Lucas Gabryel Monteiro de Lima
