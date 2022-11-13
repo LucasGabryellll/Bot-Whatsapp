@@ -47,5 +47,6 @@ export const sendMessageGroup = async (req: Request, res: Response) => {
 }
 
 export const sendMensageTrigger = async(message: string) => {
+  
   await sender.clientConnneted().sendText("120363044262730748@g.us", message);
 }
