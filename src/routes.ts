@@ -8,8 +8,6 @@ import {
 
 import { getAllGroups } from './Controller/GroupsController';
 
-import { newTrigger } from './Controller/ZabbixController';
-
 const routes = Router();
 
 /**
@@ -25,6 +23,4 @@ routes.post('/sendMessageGroup', sendMessageGroup);
  */
 routes.get('/allGroups', getAllGroups);
 
-
-routes.get('/trigger', newTrigger);
 export default routes;
