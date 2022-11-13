@@ -16,7 +16,7 @@
   2. Sempre que tiver um novo incidente ativo na rede, a aplicação lhe notificará em um grupo de sua preferencia.
 
 ## ❗Observações:
- - A aplicação está vinculada ao sistema de Monitoramento Zabbix, porém a base do projeto utilizad a biblioteca Venom-bot, na qual pode ser modificada e utilizada para outros fins de acordo com sua vontade.
+ - A aplicação está vinculada ao sistema de Monitoramento Zabbix, porém a base do projeto utiliza a biblioteca Venom-bot, na qual pode ser modificada e utilizada para outros fins de acordo com sua vontade.
 
 ## 🚀 Ferramentas e Tecnologías:
  - <img src="https://img.icons8.com/color/344/typescript.png" width="25px"> Typescript.
@@ -24,4 +24,4 @@
  - <img src="https://www.made4it.com.br/wp-content/uploads/2020/10/zabbix_logo_500x131.png" width="40px"> Zabbix.
 
 ## 🎓 Autor:
- - Lucas Gabryel Monteiro de Lima
+ - Lucas Gabryel Monteiro de Lima.
