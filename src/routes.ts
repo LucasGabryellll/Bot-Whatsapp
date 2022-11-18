@@ -13,7 +13,6 @@ const routes = Router();
 /**
  * Rotas para Menssagem
  */
-
 routes.get('/status', statusConnection);
 routes.post('/sendMessage', sendMessage);
 routes.post('/sendMessageGroup', sendMessageGroup);
